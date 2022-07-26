@@ -38,11 +38,11 @@
     <a href="https://github.com/siyunfeng/repo_name"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/siyunfeng/odin-recipe">View Demo</a>
+    <a href="https://github.com/siyunfeng/my-favorite-recipes">View Demo</a>
     ·
-    <a href="https://github.com/siyunfeng/odin-recipe/issues">Report Bug</a>
+    <a href="https://github.com/siyunfeng/my-favorite-recipes/issues">Report Bug</a>
     ·
-    <a href="https://github.com/siyunfeng/odin-recipe/issues">Request Feature</a>
+    <a href="https://github.com/siyunfeng/my-favorite-recipes/issues">Request Feature</a>
   </p>
 </div>
 
@@ -223,5 +223,3 @@ Project Link: [https://github.com/siyunfeng/repo_name](https://github.com/siyunf
 [license-url]: https://github.com/siyunfeng/repo_name/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
-
-[product-screenshot]: images/screenshot.png# odin-recipes
